@@ -341,7 +341,7 @@
     var audios = document.querySelectorAll("audio");
     for(var i = 0; i < audios.length; i++){
     if(sound_data[i].name == audio){
-    window.open('javascript:(function()%7Bvar videoElement %3D document.querySelectorAll("audio")[' + i + ']%3Bvar audioCtx %3D new AudioContext()%3Bvar source %3D audioCtx.createMediaElementSource(videoElement)%3Bvar gainNode %3D audioCtx.createGain()%3Bdocument.documentElement.onmousemove %3D function()%7Bvar y %3D event.screenY%2Fscreen.height * 100 - 10%3BgainNode.gain.value %3D y%3Bsource.connect(gainNode)%3BgainNode.connect(audioCtx.destination)%3B%7D%7D)()');
+    window.open('javascript:(function()%7Bvar videoElement %3D document.querySelectorAll("audio")[' + i + ']%3Bvar audioCtx %3D new AudioContext()%3Bvar source %3D audioCtx.createMediaElementSource(videoElement)%3Bvar gainNode %3D audioCtx.createGain()%3Bdocument.documentElement.onmousemove %3D function()%7Bvar y %3D event.screenY%2Fscreen.height * 100 - 10%3BgainNode.gain.value %3D y%3Bsource.connect(gainNode)%3BgainNode.connect(audioCtx.destination)%3B%7D%7D)()', '_self');
     }
     }
     }
