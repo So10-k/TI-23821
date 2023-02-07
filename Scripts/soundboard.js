@@ -281,6 +281,11 @@ let sound_data = [
         path: "Soundboard/radio-beep.mp3",
     },
     {
+        name: "Fortnite Battle Pass",
+        id: "funny-song",
+        path: "Soundboard/Fortnite battle pass.mp3",
+    },
+    {
         name: "Rick Roll >:)",
         id: "rick-roll",
         path: "Soundboard/rick-roll.mp3",
