@@ -11,6 +11,11 @@ let sound_data = [
         path: "Soundboard/AUUGHHH.mp3",
     },
     {
+        name: "Are you sure about that",
+        id: "rusureabtdat",
+        path: "Soundboard/Are you sure about that.3gp",
+    },
+    {
         name: "Censor Beep",
         id: "censor-beep-sound-effect",
         path: "Soundboard/Censor-Beep-Sound-Effect.mp3",
