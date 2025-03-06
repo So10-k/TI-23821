@@ -33,6 +33,21 @@ const data = [
         ]
     },
     {
+        name: "Snow Rider 3D",
+        id: "snowrider3d",
+        genre: "Arcade",
+        description: "Snow Rider 3D is fun.",
+        link: `http://samotten.me/dsfsgrgedg/`,
+        img: `${cdnUrl}/High Compressed/highcompress_2_player_games.png`,
+        file_based: true,
+        publisher: "Sam",
+        controls: [
+            "Player 1: WAD - Movement, S - Shoot",
+            "Player 2: Up/Left/Right Arrow - Movement, Down Arrow - Shoot",
+            "R - Menu"
+        ]
+    },
+    {
         name: "99 Balls",
         id: "99balls",
         genre: "Arcade",
