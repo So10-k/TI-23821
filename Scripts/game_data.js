@@ -8,29 +8,25 @@ const data = [
         genre: "Arcade",
         description: "OvO is a super fun game!",
         link: "https://mocvg.github.io/projects/ovo/game.html",
-        img: `https://mocvg.github.io/projects/ovo/ovo.png`,
-        file_based: false,
+        img: `https://mocvg.github.io/projects/ovos/ovo.png`,
+        file_based: true,
         publisher: "Dedra Games",
         controls: [
             "Figure it out",
         ],
-        broken: false,
-        note: "New Game!"
     },
     {
         name: "OvO2",
         id: "OvO2",
         genre: "Arcade",
         description: "OvO2 is a super fun game!",
-        link: "https://mocvg.github.io/projects/ovo2/game.html",
+        link: "https://mocvg.github.io/projects/ovo-2/game.html",
         img: `https://mocvg.github.io/projects/ovo2/ovo.png`,
         file_based: false,
         publisher: "Dedra Games",
         controls: [
             "Figure it out",
         ],
-        broken: false,
-        note: "New Game!"
     },
     {
         name: "1v1.lol",
