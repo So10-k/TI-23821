@@ -1,4 +1,4 @@
-let lastUpdate = "2/1/2023 (v6.3.0)"
+let lastUpdate = "3/12/2025 (v7.0.0)"
 let cdnUrl = "https://celebrated-stardust-91ad96.netlify.app"
 //CHANGE IMAGES ON HOME PAGE TOO
 const data = [
