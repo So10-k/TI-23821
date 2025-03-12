@@ -16,6 +16,19 @@ const data = [
         ],
     },
     {
+        name: "OvO - Modded",
+        id: "OvOModded",
+        genre: "Arcade",
+        description: "OvO-- with a twist!",
+        link: "https://arjun99ab.github.io/ovo/1.4.1/",
+        img: `https://arjun99ab.github.io/ovo/assets/img/1.4.png`,
+        file_based: true,
+        publisher: "Dedra Games",
+        controls: [
+            "Press ~ for hacks",
+        ],
+    },
+    {
         name: "OvO2",
         id: "OvO2",
         genre: "Arcade",
