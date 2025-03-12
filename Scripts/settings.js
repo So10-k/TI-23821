@@ -213,7 +213,7 @@ function setCloak() {
 
     if(icon === "Default"){
         link.herf = "sgs-logo.png";
-        document.title = "Syce's Game Shack"
+        document.title = "Sam's Game Shack"
     }
 
     if(icon === "Google Slides"){
