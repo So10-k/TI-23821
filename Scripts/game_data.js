@@ -3,6 +3,36 @@ let cdnUrl = "https://celebrated-stardust-91ad96.netlify.app"
 //CHANGE IMAGES ON HOME PAGE TOO
 const data = [
     {
+        name: "OvO",
+        id: "OvO",
+        genre: "Arcade",
+        description: "OvO is a super fun game!",
+        link: "https://mocvg.github.io/projects/ovo/game.html",
+        img: `https://mocvg.github.io/projects/ovo/ovo.png`,
+        file_based: false,
+        publisher: "Dedra Games",
+        controls: [
+            "Figure it out",
+        ],
+        broken: false,
+        note: "New Game!"
+    },
+    {
+        name: "OvO2",
+        id: "OvO2",
+        genre: "Arcade",
+        description: "OvO2 is a super fun game!",
+        link: "https://mocvg.github.io/projects/ovo2/game.html",
+        img: `https://mocvg.github.io/projects/ovo2/ovo.png`,
+        file_based: false,
+        publisher: "Dedra Games",
+        controls: [
+            "Figure it out",
+        ],
+        broken: false,
+        note: "New Game!"
+    },
+    {
         name: "1v1.lol",
         id: "1v1.lol",
         genre: "Building Simulator",
