@@ -16,6 +16,19 @@ const data = [
         ],
     },
     {
+        name: "Monkey Mart",
+        id: "MonkeyMart",
+        genre: "Arcade",
+        description: "Unbloced Monkey Mart!!",
+        link: "http://samotten.me/sdadasdadwmonkey-mart/",
+        img: `https://mocvg.github.io/projects/ovos/ovo.png`,
+        file_based: true,
+        publisher: "MonkeyMart",
+        controls: [
+            "Figure it out",
+        ],
+    },
+    {
         name: "OvO - Modded",
         id: "OvOModded",
         genre: "Arcade",
