@@ -55,19 +55,17 @@ const data = [
         ],
     },
     {
-        name: "1v1.lol",
-        id: "1v1.lol",
-        genre: "Building Simulator",
-        description: "1v1.lol is an online building simulator & third person shooting game. Battle royale, build fight, zone wars and more game modes to enjoy!",
-        link: "https://advanced-channeler.02.gz-associates.com/?t=tam-1v1-lol",
+        name: "Basketball Stars",
+        id: "BBStars",
+        genre: "Basketball Game",
+        description: "A fun game called Basketball Stars!",
+        link: "https://ubg98.github.io/BasketballStars/",
         img: `${cdnUrl}/High Compressed/highcompress_1v1-lol.png`,
         file_based: false,
-        publisher: "JustPlay.LOL",
+        publisher: "BBStars",
         controls: [
-            "Slide Left Click - Aim",
+            "Figure it Out",
         ],
-        broken: true,
-        note: "Game won't load (WebSocket connection to wss failed)"
     },
     {
         name: "2 Player Games",
