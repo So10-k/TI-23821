@@ -2042,7 +2042,7 @@ const data = [
         id: "time_shooter_3",
         genre: "FPS",
         description: "This is a first person shooter game where time sands still until you move. Plan your shots and moves carefully as you must dodge enemy fire in epic slo-mo combat.",
-        link: "https://c948ebn9d7mt7708ltutkt0ncbqleedo-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/x002d4f5/ts3.xml&container=enterprise&view=default&lang=en&country=ALL&sanitize=0&v=d46b9372ddb3ad67&libs=core&mid=88&parent=https://sites.google.com/site/unblockedgame76/time-shooter-3#st=e%3DAIHE3cCt9LNDXREyRib3u9ooN1xoByJtCuB5SPKhZxbPeS%252F%252BkIqQqbSDyOx3R4axlHBipKjAHPexKtGN6dqN%252Ft6sbR8efDVHs00C7%252F44XPgtROhEPMpHerc%253D%26c%3Denterprise&rpctoken=-3457677117462969399",
+        link: "https://samotten.me/ts3/",
         img: `${cdnUrl}/High Compressed/highcompress_time_shooter_3.png`,
         file_based: false,
         publisher: "Unknown",
