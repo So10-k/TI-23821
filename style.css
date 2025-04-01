@@ -122,7 +122,7 @@ body.dark .search-box .icon{
     border-radius: 6px;
     background-color: var(--primary-color-light);
     cursor: pointer;
-    width: 30%;
+    width: 60%;
     height: 50px;
     display: inline-table;
     transition: var(--tran-05);
