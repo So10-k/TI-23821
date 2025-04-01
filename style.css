@@ -141,6 +141,18 @@ body.dark .search-box .icon{
     transition: var(--tran-05);
     padding-left: 13px;
 }
+.requestgames-input{
+    height: 100%;
+    width: 87%;
+    outline: none;
+    border: none;
+    background-color: var(--primary-color-light);
+    color: var(--text-color);
+    font-size: 17px;
+    font-weight: 500;
+    transition: var(--tran-05);
+    padding-left: 13px;
+}
 
 body.dark .filter .icon{
     color: var(--text-color);
