@@ -122,8 +122,8 @@ body.dark .search-box .icon{
     border-radius: 6px;
     background-color: var(--primary-color-light);
     cursor: pointer;
-    width: 60%;
-    height: 50px;
+    width: 40%;
+    height: calc(50% - 5px);
     display: inline-table;
     transition: var(--tran-05);
     margin-left: 5px;
